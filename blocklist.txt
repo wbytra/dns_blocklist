@@ -1,3 +1,4 @@
 ! DNS Blocklist
 ! Title: DNS Blocklist
 ||YouTube.com^
+||logitechg.com^
